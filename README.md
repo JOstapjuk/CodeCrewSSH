@@ -10,6 +10,8 @@
 ### CSS
 - Kujunda veebileht visuaalselt atraktiivseks, lisades värvid, fondid ja paigutuse.
 - Veendu, et leht on tundlik ja töötab hästi erinevatel ekraanidel.
+- Lisa hover-efekte nuppudele, et täiustada kasutajakogemust.
+- Lisa mingi pildid meeskonnaliikmete profiilide jaoks.
 
 ### JavaScript
 - Lisage nupp „Näita rohkem“, et avaldada dünaamiliselt lisateavet meeskondade kohta.
