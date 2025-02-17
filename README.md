@@ -1,6 +1,6 @@
 # CodeCrew
 
-**CodeCrew** on veebirakendus, mis võimaldab kasutajatel sirvida programmeerimismeeskondi. Projekt kasutab HTML-i, CSS-i, JavaScripti, et luua lihtne ja interaktiivne veebisait. Samuti kasutab see PHP-d dünaamilise sisu renderdamiseks, et luua personaalsem kasutajakogemus.
+**CodeCrew** on veebirakendus, mis võimaldab kasutajatel sirvida programmeerimismeeskondi. Projekt kasutab HTML-i, CSS-i, JavaScripti, et luua lihtne ja interaktiivne veebisait.
 
 ## TODO List
 
