@@ -15,7 +15,3 @@
 
 ### JavaScript
 - Lisage nupp „Näita rohkem“, et avaldada dünaamiliselt lisateavet meeskondade kohta.
-
-### PHP
-- Looge `dynamic.php` fail, et muuta dünaamiline sisu sõltuvalt tingimustest, näiteks kellaajast või kasutaja tegevusest.
-  - Näiteks tervitage kasutajat kellaajal põhinevalt.
